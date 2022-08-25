@@ -130,3 +130,86 @@ img[src="iconmonstr-quote-7.svg"]{
     margin-top: -400px;
     margin-bottom: 320px;
 }
+@media only screen and (max-width:500px) {
+img[src="logo.svg"]
+{
+    margin-left: -20px;
+    margin-top: -430px;
+    margin-bottom: 190px;
+}
+.navigation{
+    margin-left: 20px;
+}
+img[src="pexels-rfstudio-3819572.jpg"]{
+    margin-top: -1590px;
+    margin-bottom: 790px;
+}
+img[src="pexels-cottonbro-7974875.jpg"]{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+img[src="iconmonstr-quote-7.svg"]{
+    width: 15px;
+    margin-left: 20px;
+    margin-top: -650px;
+    margin-bottom: 380px;
+}
+img[src="iconmonstr-arrow-down-thin.svg"]{
+    margin-left: 390px;
+    margin-top: -160px;
+}
+.line{
+    margin-left: 20px;
+    margin-top: 130px;
+    width: 420px;
+}
+.first{
+  margin-left: 20px;
+  margin-top: -360px;
+  position: absolute;  
+}
+.second{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -190px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1580px;
+    margin-left: -20px;
+    justify-content: space-around;
+    margin-bottom: -1400px;
+}
+h4{
+    position: absolute;
+    margin-left: 150px;
+    color: #ffffff;
+    margin-top: 0px;
+}
+h3{
+    margin-left: 40px;
+    margin-right: 0px;
+    margin-top: 280px;
+}
+button{
+    margin-top: 550px;
+    margin-left: 100px;
+}
+.feature{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.line{
+    width: 0px;
+}
+.line2{
+    width: 0px;
+}
+.line3{
+    width: 0px;
+}
+.line4{
+    width: 0px;
+}
+}
